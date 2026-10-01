@@ -1,4 +1,6 @@
-# eRTMAC-NWIS MVP
+# Oil-Sentry
+
+## eRTMAC-NWIS MVP
 
 eRTMAC-NWIS (Nearby Wells Intelligence System) is an AI-powered offset-well knowledge and decision-support platform for drilling operations. It is being developed for SIH 2026 Problem Statement 121 / SIH26121, Oil India Limited.
 
