@@ -1,0 +1,32 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Python backend
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# React / Vite frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Runtime output and local tooling
+*.log
+tmp/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Locally trained or generated artifacts
+ml/models/*.pkl
+ml/models/*.joblib
